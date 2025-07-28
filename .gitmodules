@@ -1,3 +1,6 @@
 [submodule "santander-bootcamp/desafio-basico-java-bootcamp_santander"]
 	path = santander-bootcamp/desafio-basico-java-bootcamp_santander
 	url = https://github.com/Quisini/desafio-basico-java-bootcamp_santander
+[submodule "santander-bootcamp/ProcessoSeletivo"]
+	path = santander-bootcamp/ProcessoSeletivo
+	url = https://github.com/Quisini/desafio-processo-seletivo-java
