@@ -4,3 +4,6 @@
 [submodule "santander-bootcamp/ProcessoSeletivo"]
 	path = santander-bootcamp/ProcessoSeletivo
 	url = https://github.com/Quisini/desafio-processo-seletivo-java
+[submodule "santander-bootcamp/contador-java"]
+	path = santander-bootcamp/contador-java
+	url = https://github.com/Quisini/controle-de-fluxo-java
